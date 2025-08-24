@@ -1,0 +1,66 @@
+# Ignore forensic images and raw dumps
+*.dd
+*.001
+*.002
+*.003
+*.E01
+*.bin
+*.raw
+*.vmdk
+*.vdi
+*.img
+*.iso
+
+# Ignore compressed archives of evidence
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Ignore system/VM artifacts
+*.vbox
+*.vbox-prev
+*.vdi
+*.nvram
+*.log
+*.lck
+*.vmem
+*.vmss
+*.vmsd
+*.vmtm
+*.vmxf
+.DS_Store
+Thumbs.db
+
+# Ignore OS junk
+ehthumbs.db
+desktop.ini
+
+# Ignore temp / scratch data
+*.tmp
+*.temp
+*.swp
+*.bak
+*.old
+
+# Ignore large CSV dumps unless explicitly needed
+*.csv
+
+# Ignore hashsets and lookup DBs
+*.db
+*.sqlite
+*.kdbx
+*.idx
+
+# Ignore Autopsy case artifacts (big data dirs)
+Autopsy-*/  
+*/Autopsy*/Export/  
+*/Autopsy*/Temp/  
+
+# Ignore working folders with raw extractions
+working/
+export/
+exports/
+output/
+out/
