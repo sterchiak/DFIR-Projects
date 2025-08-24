@@ -1,0 +1,126 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: 001
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for Z:\DFIR\Case001\case001:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 15,151
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 243,404,800
+[Physical Drive Information]
+ Drive Model: General USB Flash Disk USB Device
+ Drive Serial Number: 1103102500005188
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 118850 MB
+ Sector count:    243404800
+[Computed Hashes]
+ MD5 checksum:    b4455bfeeee8485a45a9d00e9900d7c3
+ SHA1 checksum:   ccf9a77c7aae1f595d302cc0b22f29f816842624
+
+Image Information:
+ Acquisition started:   Sun Aug 24 16:31:33 2025
+ Acquisition finished:  Sun Aug 24 17:23:59 2025
+ Segment list:
+  Z:\DFIR\Case001\case001.001
+  Z:\DFIR\Case001\case001.002
+  Z:\DFIR\Case001\case001.003
+  Z:\DFIR\Case001\case001.004
+  Z:\DFIR\Case001\case001.005
+  Z:\DFIR\Case001\case001.006
+  Z:\DFIR\Case001\case001.007
+  Z:\DFIR\Case001\case001.008
+  Z:\DFIR\Case001\case001.009
+  Z:\DFIR\Case001\case001.010
+  Z:\DFIR\Case001\case001.011
+  Z:\DFIR\Case001\case001.012
+  Z:\DFIR\Case001\case001.013
+  Z:\DFIR\Case001\case001.014
+  Z:\DFIR\Case001\case001.015
+  Z:\DFIR\Case001\case001.016
+  Z:\DFIR\Case001\case001.017
+  Z:\DFIR\Case001\case001.018
+  Z:\DFIR\Case001\case001.019
+  Z:\DFIR\Case001\case001.020
+  Z:\DFIR\Case001\case001.021
+  Z:\DFIR\Case001\case001.022
+  Z:\DFIR\Case001\case001.023
+  Z:\DFIR\Case001\case001.024
+  Z:\DFIR\Case001\case001.025
+  Z:\DFIR\Case001\case001.026
+  Z:\DFIR\Case001\case001.027
+  Z:\DFIR\Case001\case001.028
+  Z:\DFIR\Case001\case001.029
+  Z:\DFIR\Case001\case001.030
+  Z:\DFIR\Case001\case001.031
+  Z:\DFIR\Case001\case001.032
+  Z:\DFIR\Case001\case001.033
+  Z:\DFIR\Case001\case001.034
+  Z:\DFIR\Case001\case001.035
+  Z:\DFIR\Case001\case001.036
+  Z:\DFIR\Case001\case001.037
+  Z:\DFIR\Case001\case001.038
+  Z:\DFIR\Case001\case001.039
+  Z:\DFIR\Case001\case001.040
+  Z:\DFIR\Case001\case001.041
+  Z:\DFIR\Case001\case001.042
+  Z:\DFIR\Case001\case001.043
+  Z:\DFIR\Case001\case001.044
+  Z:\DFIR\Case001\case001.045
+  Z:\DFIR\Case001\case001.046
+  Z:\DFIR\Case001\case001.047
+  Z:\DFIR\Case001\case001.048
+  Z:\DFIR\Case001\case001.049
+  Z:\DFIR\Case001\case001.050
+  Z:\DFIR\Case001\case001.051
+  Z:\DFIR\Case001\case001.052
+  Z:\DFIR\Case001\case001.053
+  Z:\DFIR\Case001\case001.054
+  Z:\DFIR\Case001\case001.055
+  Z:\DFIR\Case001\case001.056
+  Z:\DFIR\Case001\case001.057
+  Z:\DFIR\Case001\case001.058
+  Z:\DFIR\Case001\case001.059
+  Z:\DFIR\Case001\case001.060
+  Z:\DFIR\Case001\case001.061
+  Z:\DFIR\Case001\case001.062
+  Z:\DFIR\Case001\case001.063
+  Z:\DFIR\Case001\case001.064
+  Z:\DFIR\Case001\case001.065
+  Z:\DFIR\Case001\case001.066
+  Z:\DFIR\Case001\case001.067
+  Z:\DFIR\Case001\case001.068
+  Z:\DFIR\Case001\case001.069
+  Z:\DFIR\Case001\case001.070
+  Z:\DFIR\Case001\case001.071
+  Z:\DFIR\Case001\case001.072
+  Z:\DFIR\Case001\case001.073
+  Z:\DFIR\Case001\case001.074
+  Z:\DFIR\Case001\case001.075
+  Z:\DFIR\Case001\case001.076
+  Z:\DFIR\Case001\case001.077
+  Z:\DFIR\Case001\case001.078
+  Z:\DFIR\Case001\case001.079
+  Z:\DFIR\Case001\case001.080
+ COMPUTED HASH :  b4455bfeeee8485a45a9d00e9900d7c3
+ COMPUTED HASH :  ccf9a77c7aae1f595d302cc0b22f29f816842624
+
+Image Verification Results:
+ Verification started:  Sun Aug 24 17:23:59 2025
+ Verification finished: Sun Aug 24 17:28:54 2025
+ MD5 checksum:    b4455bfeeee8485a45a9d00e9900d7c3 : verified
+ SHA1 checksum:   ccf9a77c7aae1f595d302cc0b22f29f816842624 : verified
